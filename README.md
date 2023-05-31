@@ -9,9 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python     17 mins         ██████████████████▒░░░░░░   73.33 %
-Bash       6 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.09 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+From: 29 May 2023 - To: 31 May 2023
+
+Total Time: 1 hr 30 mins
+
+Python     1 hr 22 mins    >>>>>>>>>>>>>>>>>>>>>>>--   91.58 %
+Bash       7 mins          >>-----------------------   08.27 %
+Markdown   0 secs          -------------------------   00.15 %
 ```
 
 <!--END_SECTION:waka-->
