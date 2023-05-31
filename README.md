@@ -6,6 +6,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeffreylemoine/)
 
 
+## Time spent in each language
 <!--START_SECTION:waka-->
 
 ```text
