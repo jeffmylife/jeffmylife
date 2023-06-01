@@ -10,13 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 May 2023 - To: 31 May 2023
+From: 29 May 2023 - To: 01 June 2023
 
-Total Time: 1 hr 30 mins
+Total Time: 7 hrs 17 mins
 
-Python     1 hr 22 mins    ███████████████████████░░   91.58 %
-Bash       7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Python       6 hrs 28 mins   ██████████████████████▒░░   88.75 %
+Bash         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+Markdown     17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
