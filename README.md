@@ -9,16 +9,18 @@
 ## Time spent in each language
 <!--START_SECTION:waka-->
 
-```text
-From: 29 May 2023 - To: 01 June 2023
+```txt
+From: 29 May 2023 - To: 02 June 2023
 
-Total Time: 7 hrs 17 mins
+Total Time: 8 hrs 3 mins
 
-Python       6 hrs 28 mins   ██████████████████████▒░░   88.75 %
-Bash         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-Markdown     17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Python       7 hrs 7 mins    ██████████████████████░░░   88.35 %
+Bash         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Markdown     20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
