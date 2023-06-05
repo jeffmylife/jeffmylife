@@ -10,17 +10,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2023 - To: 02 June 2023
+From: 29 May 2023 - To: 03 June 2023
 
-Total Time: 8 hrs 3 mins
+Total Time: 12 hrs 36 mins
 
-Python       7 hrs 7 mins    ██████████████████████░░░   88.35 %
-Bash         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-Markdown     20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python       8 hrs 26 mins   ████████████████▓░░░░░░░░   66.90 %
+Bash         2 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
+Docker       52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Markdown     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Makefile     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
